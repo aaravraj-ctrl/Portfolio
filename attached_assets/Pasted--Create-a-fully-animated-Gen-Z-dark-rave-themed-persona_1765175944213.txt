@@ -1,0 +1,156 @@
+**“Create a fully animated, Gen-Z dark-rave themed personal portfolio using Next.js 14 (App Router) + TypeScript + TailwindCSS + Framer Motion + Three.js + Barba.js.
+The portfolio must be completely original, highly visual, smooth, and fully responsive. Use neon colors, rave/cyberpunk aesthetics, glowing UI, distortion effects, and immersive animations. No basic templates allowed.
+
+🔥 Core Requirements
+
+Tech Stack:
+
+Next.js 14 with App Router
+
+TypeScript
+
+TailwindCSS
+
+Three.js (hero section 3D visuals)
+
+Barba.js (page transitions)
+
+Framer Motion (component + scroll animations)
+
+Global Features:
+
+Dark/Light mode toggle with smooth transitions
+
+Fully animated route transitions using Barba.js
+
+High-FPS smoothness and micro-interactions
+
+Mobile + tablet + desktop responsive
+
+SEO optimized with metadata, OG tags, structured components
+
+Noise textures, neon glows, rave gradients, glassmorphism, glitch effects
+
+🔥 Required Sections / Pages
+
+Home Page:
+
+“Aarav Kumar” heading (animated)
+
+Tagline + introduction text
+
+Three.js interactive neon particle system or 3D model
+
+CTA buttons (View Projects, Contact)
+
+Neon rave-style hero background
+
+About Page:
+
+Skills grid with hover animations
+
+Education timeline with scroll animations
+
+Experience cards with neon glow hover
+
+Short bio section with motion effects
+
+Projects Page:
+
+Animated grid layout
+
+3D tilt/hover effects on project cards
+
+Cards contain title, description, tech stack, links
+
+Smooth filtering animations
+
+Certifications Page:
+
+Masonry / grid layout
+
+Zoom-in or glow-reveal animation on hover
+
+Resume Page:
+
+Embedded PDF viewer
+
+Download button
+
+Animated header
+
+Contact Page:
+
+Rave-style animated contact form
+
+Social icons: LinkedIn, Instagram, Twitter(X), Gmail
+
+Neon hover interactions
+
+🔥 Dark/Light Mode Requirements
+
+Neon rave style in dark mode
+
+Clean minimal pastel style in light mode
+
+LocalStorage for theme persistence
+
+Smooth 0.3s fade transition
+
+🔥 Three.js Requirements
+
+One fully interactive hero canvas (particles, shaders, or neon lines)
+
+Mouse-reactive movement
+
+Glowing shader material
+
+🔥 Barba.js Requirements
+
+Seamless cross-page transitions without flicker
+
+Use fade + slide + distortion transitions
+
+Maintain scroll positions and states
+
+🔥 Animations
+
+Framer Motion for:
+
+Section entrances
+
+Text effects
+
+Button micro-interactions
+
+Parallax + stagger animations
+
+Glitch text for headings
+
+Neon pulse effects for buttons
+
+🔥 Folder Structure
+
+/app → pages (Next.js App Router)
+/components → reusable UI components
+/hooks → custom hooks
+/styles → global styles
+/public/assets → images, models, textures
+
+🔥 Deliverables
+
+Full project boilerplate
+
+Clean TypeScript code
+
+All components and pages implemented
+
+Full animations + rave theme
+
+Working dark/light mode
+
+All transitions functional
+
+No generic or low-quality code
+
+Generate the complete project now.”**
