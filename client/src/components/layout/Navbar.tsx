@@ -25,7 +25,7 @@ export function Navbar() {
       className="fixed top-0 left-0 w-full z-40 px-6 py-4 flex items-center justify-between backdrop-blur-sm bg-background/50 border-b border-white/5"
     >
       <Link href="/" className="text-2xl font-display font-bold tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary hover:brightness-125 transition-all cursor-pointer">
-          AARAV<span className="text-foreground">.DEV</span>
+          Welcome
       </Link>
 
       {/* Desktop Menu */}

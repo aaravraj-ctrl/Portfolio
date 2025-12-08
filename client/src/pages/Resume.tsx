@@ -31,12 +31,12 @@ export default function Resume() {
                 <div className="h-full flex flex-col gap-6 font-body">
                     <div className="border-b-2 border-black pb-6 flex justify-between items-end">
                         <div>
-                            <h2 className="text-4xl font-bold font-display uppercase tracking-wider">Aarav Kumar</h2>
+                            <h2 className="text-2xl md:text-3xl font-bold font-display tracking-wider">Aarav Kumar</h2>
                             <p className="text-gray-600">Creative Developer & Design Engineer</p>
                         </div>
                         <div className="text-right text-sm">
-                            <p>hello@aarav.dev</p>
-                            <p>aarav.dev</p>
+                            <p>hello@Welcome</p>
+                            <p>Welcome</p>
                         </div>
                     </div>
                     

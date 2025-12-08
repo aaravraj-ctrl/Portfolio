@@ -20,10 +20,10 @@ export default function Home() {
               Creative Developer
             </h2>
             <h1 
-              className="glitch-text text-5xl md:text-8xl font-display font-black mb-6 text-white" 
-              data-text="AARAV KUMAR"
+              className="glitch-text text-3xl md:text-5xl font-display font-black mb-6 text-white" 
+              data-text="Aarav Kumar"
             >
-              AARAV KUMAR
+              Aarav Kumar
             </h1>
             <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mb-8 leading-relaxed font-light">
               Crafting immersive digital experiences with <span className="text-primary font-bold">Next.js</span>, <span className="text-secondary font-bold">Three.js</span>, and <span className="text-accent font-bold">Design Engineering</span>. 
