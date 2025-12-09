@@ -44,7 +44,8 @@ The app will be available at `http://localhost:5000`
 
 - `npm run dev:client` - Start the client development server (port 5000)
 - `npm run dev` - Start the full development server
-- `npm run build` - Build for production
+- `npm run build` - Build for production (full stack)
+- `npm run build:client` - Build client only for static hosting
 - `npm run start` - Start production server
 - `npm run check` - Type check with TypeScript
 
@@ -71,9 +72,38 @@ Portfolio/
 - **Resume** - Interactive resume viewer
 - **Contact** - Contact form
 
+## 🚀 Deployment
+
+### Deploy to Vercel
+
+This project is configured for easy deployment on Vercel:
+
+1. **Install Vercel CLI** (optional):
+   ```bash
+   npm i -g vercel
+   ```
+
+2. **Deploy via Vercel Dashboard**:
+   - Go to [vercel.com](https://vercel.com)
+   - Click "New Project"
+   - Import your GitHub repository: `aaravraj-ctrl/Portfolio`
+   - Vercel will automatically detect the Vite framework
+   - Click "Deploy"
+
+3. **Deploy via CLI**:
+   ```bash
+   vercel
+   ```
+
+The project is pre-configured with:
+- ✅ `vercel.json` for optimal routing
+- ✅ Client-only build script
+- ✅ Code splitting for better performance
+- ✅ SPA routing support
+
 ## 🌐 Live Demo
 
-[Add your live demo URL here]
+[Add your live demo URL here after deployment]
 
 ## 👤 Author
 

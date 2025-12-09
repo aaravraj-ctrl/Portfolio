@@ -1,0 +1,15 @@
+node_modules
+.git
+.DS_Store
+*.log
+dist
+server
+script
+shared
+drizzle.config.ts
+vite-plugin-meta-images.ts
+GITHUB_SETUP.md
+QUICK_PUSH.md
+push-to-github.ps1
+attached_assets
+
