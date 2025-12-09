@@ -16,8 +16,8 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
-            <h2 className="text-secondary font-display text-xl md:text-2xl mb-4 tracking-widest uppercase">
-              Creative Developer
+            <h2 className="text-secondary font-display text-xl md:text-2xl mb-4 tracking-widest">
+              Hey There, I'm
             </h2>
             <h1 
               className="glitch-text text-3xl md:text-5xl font-display font-black mb-6 text-white" 
